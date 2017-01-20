@@ -1,5 +1,5 @@
 ---
-id: installation
+id: installation test
 title: Installation
 permalink: docs/installation.html
 redirect_from:
